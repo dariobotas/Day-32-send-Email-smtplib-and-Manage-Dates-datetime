@@ -1,4 +1,4 @@
-import tkinter as tk
+"""import tkinter as tk
 
 window = tk.Tk()
 window.title("Hello world")
@@ -9,4 +9,6 @@ hello.pack()
 button = tk.Button(text="Click me!")
 button.pack()
 
-tk.mainloop()
+tk.mainloop()"""
+import part3.main_run
+part3.main_run.main()
