@@ -10,5 +10,6 @@ button = tk.Button(text="Click me!")
 button.pack()
 
 tk.mainloop()"""
-import part3.main_run
-part3.main_run.main()
+import part7.main_run as pt
+
+pt.main()
